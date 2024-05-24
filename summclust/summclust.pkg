@@ -1,5 +1,4 @@
-d 'DEA': Data envelopment analysis
+d 'summclust': Cluster specific information and cluster jackknife Use summclust With STATA 18
 d
-f dea.ado
-f dea.sthlp
-f coelli_table6.4.dta
+f summclust.ado
+f summclust.sthlp
